@@ -43,6 +43,7 @@
         self.closebuttoncolor = nil;
         self.lefttoright = false;
         self.toolbarcolor = nil;
+        self.addresslabelcolor = nil;
         self.toolbartranslucent = YES;
         self.beforeload = @"";
     }

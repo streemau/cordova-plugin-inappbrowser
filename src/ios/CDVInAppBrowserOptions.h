@@ -27,6 +27,7 @@
 @property (nonatomic, assign) BOOL lefttoright;
 @property (nonatomic, copy) NSString* toolbarposition;
 @property (nonatomic, copy) NSString* toolbarcolor;
+@property (nonatomic, copy) NSString* addresslabelcolor;
 @property (nonatomic, assign) BOOL toolbartranslucent;
 @property (nonatomic, assign) BOOL hidenavigationbuttons;
 @property (nonatomic, copy) NSString* navigationbuttoncolor;
